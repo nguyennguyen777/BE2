@@ -1,2 +1,6 @@
 Bảng cửu chương
+<<<<<<< HEAD
 Bảng cửu chương 2
+=======
+Bảng cửu chương 3
+>>>>>>> bangcuuchuong_3
