@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Conflict from main branch
+=======
+Conflict from test_conflict branch
+>>>>>>> test_conflict
